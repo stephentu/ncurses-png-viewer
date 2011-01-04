@@ -11,4 +11,4 @@ Simply type `make`, which creates a binary called `viewer`. Both `libpng` and `n
 Usage
 =====
 
-  ./viewer pngfile.png
+    ./viewer pngfile.png
